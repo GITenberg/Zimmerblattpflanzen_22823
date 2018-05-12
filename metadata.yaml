@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25562
     wikipedia: http://de.wikipedia.org/wiki/Carl_Lebrecht_Udo_Dammer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22823#Zimmerblattpflanzen
 gutenberg_bookshelf:
 - Horticulture
 - DE Sachbuch

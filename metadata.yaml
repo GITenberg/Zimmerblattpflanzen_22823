@@ -1,0 +1,31 @@
+_repo: Zimmerblattpflanzen_22823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dammer, Udo
+    birthdate: 1860
+    deathdate: 1920
+    gutenberg_agent_id: '25562'
+    url: http://www.gutenberg.org/2009/agents/25562
+    wikipedia: http://de.wikipedia.org/wiki/Carl_Lebrecht_Udo_Dammer
+description: ''
+gutenberg_bookshelf:
+- Horticulture
+- DE Sachbuch
+gutenberg_issued: '2007-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22823'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'House plants'
+- !lcsh 'Foliage plants'
+title: Zimmerblattpflanzen
+url: http://www.gutenberg.org/ebooks/22823
